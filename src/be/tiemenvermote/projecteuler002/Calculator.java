@@ -34,6 +34,7 @@ public class Calculator {
 
             sum += (Integer)list.get(i);
         }
+        System.out.println("The found sum is: ");
         return sum;
     }
 }
